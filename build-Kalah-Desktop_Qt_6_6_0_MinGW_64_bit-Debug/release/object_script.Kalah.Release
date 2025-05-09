@@ -1,0 +1,12 @@
+release/Pit.o
+release/button.o
+release/circlegenerator.o
+release/gameboard.o
+release/gamepanel.o
+release/main.o
+release/mainwindow.o
+release/stone.o
+release/moc_Pit.o
+release/moc_button.o
+release/moc_gameboard.o
+release/moc_mainwindow.o

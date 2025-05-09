@@ -1,0 +1,12 @@
+debug/Pit.o
+debug/button.o
+debug/circlegenerator.o
+debug/gameboard.o
+debug/gamepanel.o
+debug/main.o
+debug/mainwindow.o
+debug/stone.o
+debug/moc_Pit.o
+debug/moc_button.o
+debug/moc_gameboard.o
+debug/moc_mainwindow.o
